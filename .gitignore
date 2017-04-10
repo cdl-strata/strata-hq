@@ -5,6 +5,7 @@ __pycache__/
 
 # database
 *.sqlite3
+migrations
 
 # C extensions
 *.so
@@ -94,3 +95,4 @@ env
 
 # Damn Mac OS
 .DS_Store
+.idea
